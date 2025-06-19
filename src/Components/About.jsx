@@ -29,7 +29,7 @@ function About() {
           viewport={{ once: true }}
         >
           <img
-            src="public/Imges/sir.png"
+            src="/Imges/sir.png"
             alt="Mr. Manjur Pathan"
             className="rounded-2xl shadow-lg w-full h-auto object-cover"
           />
