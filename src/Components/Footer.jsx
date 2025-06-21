@@ -46,7 +46,7 @@ function Footer() {
   &copy; {new Date().getFullYear()} Pathan Tutorials. All rights reserved. <br />
   Designed & Developed by{' '}
   <a
-    href="https://skaltamashportfolio.netlify.app/"
+    href="https://altamashdev.netlify.app/"
     target="_blank"
     rel="noopener noreferrer"
     className="text-yellow-400 font-semibold hover:underline"

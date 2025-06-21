@@ -7,7 +7,7 @@ function WhatsAppCTA() {
       href="https://wa.me/919403553309"
       target="_blank"
       rel="noopener noreferrer"
-      className="fixed bottom-6 right-6 z-50 bg-green-500 hover:bg-green-600 text-white p-4 rounded-full shadow-lg transition transform hover:scale-110"
+      className="fixed bottom-10 right-6 z-50 bg-green-500 hover:bg-green-600 text-white p-4 rounded-full shadow-lg transition transform hover:scale-110"
       title="Chat with us on WhatsApp"
     >
       <FaWhatsapp className="text-2xl" />
